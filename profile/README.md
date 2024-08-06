@@ -30,15 +30,6 @@ Embark on a journey towards a healthier lifestyle with Greethy! Our platform is 
 
 For more information, visit our website: [Greethy Official Fanpage Site](https://www.facebook.com/greethy.project)
 
-### Getting Started 🚀
-
-To get started with Greethy, follow these steps:
-
-1. Download the App: [Link to app download]
-2. Sign Up: Create your account and personalize your profile.
-3. Explore Features: Discover tools for managing nutrition and finances.
-4. Join the Community: Connect with other members and participate in discussions.
-
 ## Contributing 💻
 
 We welcome contributions from the community. If you'd like to contribute to Greethy, please check out our [Contributing Guidelines](https://github.com/Greethy/contribute/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/Greethy/contribute/blob/main/CODE_OF_CONDUCT.md).
