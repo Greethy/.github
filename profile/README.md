@@ -28,7 +28,7 @@ Additionally, Greethy will develop software tools to support the community in ac
 
 Embark on a journey towards a healthier lifestyle with Greethy! Our platform is designed to support you in achieving your health and financial goals.
 
-For more information, visit our website: [Greethy Official Fanpage Site](https://www.facebook.com/greethy.project)
+For more information, visit our Fanpage: [Greethy Official Fanpage Site](https://www.facebook.com/greethy.project)
 
 ## Contributing 💻
 
