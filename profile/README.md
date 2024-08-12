@@ -1,6 +1,6 @@
 # Greethy - Community Health Organization 🌱
 
-![Greethy Logo](/media/BG.jpg)
+![Greethy Logo](https://raw.githubusercontent.com/Greethy/.github/main/media/BG.jpg)
 
 ## About Greethy
 
