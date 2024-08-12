@@ -32,7 +32,7 @@ For more information, visit our Fanpage: [Greethy Official Fanpage Site](https:/
 
 ## Contributing 💻
 
-We welcome contributions from the community. If you'd like to contribute to Greethy, please check out our [Contributing Guidelines](https://github.com/Greethy/contribute/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/Greethy/contribute/blob/main/CODE_OF_CONDUCT.md).
+We welcome contributions from the community. If you'd like to contribute to Greethy, please check out our [Contributing Guidelines](https://github.com/Greethy/.github/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/Greethy/.github/blob/main/CODE_OF_CONDUCT.md).
 
 ## Contact Us 📧
 
