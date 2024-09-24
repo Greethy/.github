@@ -16,10 +16,6 @@ Greethy aims to be a pioneer in developing mobile applications integrated with d
 
 Greethy's mission is to create a software application that provides and supports users in accessing reliable, relevant, and authentic information about nutrition, health, and lifestyle. Our goal is to serve the community by ensuring that users have access to valuable resources for managing their nutrition and finances effectively.
 
-## Community Engagement 👥
-
-Greethy strives to be a reliable source of knowledge and motivation for financial management and nutritional management. Our goal is to help people easily access information about nutrition and effectively manage their expenses. By doing so, Greethy aims to contribute to the development of a healthy community and lifestyle.
-
 ## Software Development 💡
 
 Additionally, Greethy will develop software tools to support the community in accessing valuable nutritional knowledge and resources.
