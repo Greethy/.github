@@ -38,7 +38,7 @@ If you have any questions or need support, feel free to reach out to us at greet
 # 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧
 
 ## Current Status 🚧
-> Due to the busy schedules of our team members, the Greethy project has been temporarily paused. We hope to resume work on this app in the future, aiming to fulfill our vision of building a healthier community.
+> Due to the busy schedules of our team members, the Greethy project has been temporarily paused. We hope to resume work on this project in the future, aiming to fulfill our vision of building a healthier community.
 
 ## What’s Next 🔮
 While Phase 2 of development will be delayed, we continue to maintain our roadmap and are committed to returning to this project when time permits. Stay tuned for future updates and development!
