@@ -35,7 +35,7 @@ We welcome contributions from the community. If you'd like to contribute to Gree
 If you have any questions or need support, feel free to reach out to us at greethy.project@gmail.com.
 
 ---
-# 🚧 🚧 🚧  🚧  🚧  🚧  🚧  🚧  🚧 🚧  🚧  🚧  🚧  🚧  🚧  🚧  🚧  🚧  🚧  🚧  🚧  🚧 
+# 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧
 
 ## Current Status 🚧
 > Due to the busy schedules of our team members, the Greethy project has been temporarily paused. We hope to resume work on this app in the future, aiming to fulfill our vision of building a healthier community.
